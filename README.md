@@ -23,7 +23,7 @@
 <br> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosook0127&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/woosook0127/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosook0127&layout=compact&theme=radical)](https://github.com/woosook0127/github-readme-stats)
 
 <br> 
 
