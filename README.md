@@ -25,12 +25,12 @@
 
 <br> 
 
-<p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosook0127&show_icons=true&theme=radical)
-</p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosook0127&show_icons=true&theme=radical) <\a>
+
+<br> 
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosook0127&layout=compact&theme=radical)](https://github.com/woosook0127/github-readme-stats)
 -->
-<br> 
+
 
