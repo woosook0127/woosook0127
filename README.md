@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/FRDM-K64F-0091BD?style=flat-square&logo=Arm&logoColor=white"/></a>&nbsp 
 </p>
 
-
-
 <br>
 
 
