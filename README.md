@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c382c7&height=180&section=header&text=WOOSEOK&fontColor=ffffff&fontSize=42&desc=&descSize=25&animation=twinkling)
+<p align="center">Seoul 🇰🇷 /p>
 
-<p align="center">🇰🇷 /p>
 
 <h3 align="center">🛠 Skills 🛠</h3>
 <p align="center"> Languages & Platforms </p>
