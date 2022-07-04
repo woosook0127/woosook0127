@@ -25,7 +25,7 @@
 
 <br> 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosook0127&show_icons=true&theme=radical) <\a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosook0127&show_icons=true&theme=radical) 
 
 <br> 
 
